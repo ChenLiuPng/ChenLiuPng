@@ -1,6 +1,6 @@
-### 7-8月任务列表😄
+### 9-10月任务列表😄
 - [ ] 看完珠峰架构
-- [ ] LOL单排上黄金
+- [ ] leetcode100道
 <!--
 **ChenLiuPng/ChenLiuPng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
