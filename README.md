@@ -5,7 +5,8 @@
 
 <details>
 <summary><strong>react基础</strong></summary>
-  - [x] React & React Hook & React Router 基础入门实战视频教程 01 介绍
+  
+- [x] React & React Hook & React Router 基础入门实战视频教程 01 介绍
 
 - [x] React & React Hook & React Router 基础入门实战视频教程 02 创建 React 项目并了解项目源码
 
