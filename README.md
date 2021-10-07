@@ -76,6 +76,13 @@
 </details>
 <details>
 <summary><strong>react进阶React Query</strong></summary>
+  
+- [x] React 进阶之 React Query 视频实战教程 01 介绍与搭建项目
+- [x] React 进阶之 React Query 视频实战教程 02 useQuery hook part 1
+- [x] React 进阶之 React Query 视频实战教程 03 useQuery hook part 2
+- [x] React 进阶之 React Query 视频实战教程 04 React Query Devtools - staleTime
+- [x] React 进阶之 React Query 视频实战教程 05 React Query 分页 - 查询变量
+- [x] React 进阶之 React Query 视频实战教程 06 React Query 分页 - 完结
 </details>
 <details>
 <summary><strong>react进阶组件实战</strong></summary>
