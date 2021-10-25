@@ -1,92 +1,60 @@
-### 9-10月任务列表😄
-- [ ] 看完珠峰架构
-- [ ] leetcode100道  76/100
+<div
 
+<div align=center>
 
-<details>
-<summary><strong>react基础</strong></summary>
+<img alt="LiuPeng Chen" src="https://avatars.githubusercontent.com/u/58840360?v=4" width=100 />
+
+# Hi, this is LiuPeng Chen :wave:
+
+<p>
   
-- [x] React & React Hook & React Router 基础入门实战视频教程 01 介绍
+## Orientation :dart:
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 02 创建 React 项目并了解项目源码
+Code is interest. :heart:
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 03 组件与模板
+<p>
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 04 模板上的动态值
+![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 05 多个组件
+</p>
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 06 添加样式
+<p>
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 07 事件
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
+![React](https://img.shields.io/badge/-React-282c34?logo=react)
+![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 08 使用状态（useState hook）
+</p>
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 09 浏览器插件调试工具 React Developer Tools
+<p>
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 10 输出列表
+![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
+![Rollup](https://img.shields.io/badge/-Rollup-ef3335?logo=rollup.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 11 Props & 重用组件
+</p>
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 12 重用组件 & Props 参数默认值
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 13 函数作为参数 & 删除博客
 
-- [x] React & React Hook & React Router 基础入门实战视频教程 14 useEffect Hook
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 15 useEffect Hook - 依赖 - 第二个参数
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 16 JSON Server
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 17 用 useEffect 发送请求
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 18 发送请求显示 Loading
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 19 详解发送请求错误处理
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 20 创建自定义的 Hook
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 21 React Router 路由
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 22 精确匹配路由
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 23 Router Links
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 24 动态路由参数
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 25 重用自定义的 React Hook
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 26 添加博客表单
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 27 发送请求提交表单
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 28 跳转
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 29 删除博客
-
-- [x] React & React Hook & React Router 基础入门实战视频教程 30 404 页面 - 完结
-
-- [x] 2021 年版本 React & React Hook & React Router 基础入门实战视频教程 31 补充： React 生态学习路径建议
-
-- [x] 2021 年版本 React & React Hook & React Router 基础入门实战视频教程 32 补充： 前端程序员如何挑选一门合适的后端技术
-
-- [x] 2021 年版本 React & React Hook & React Router 基础入门实战视频教程 33 补充： 给 React 程序员推荐一款关于 Form 表单的库
-
-- [x] 2021 年版本 React & React Hook & React Router 基础入门实战视频教程 34 补充： 给 React 程序员推荐的 ui 组件库
-</details>
-<details>
-<summary><strong>react进阶React Query</strong></summary>
+<p>
   
-- [x] React 进阶之 React Query 视频实战教程 01 介绍与搭建项目
-- [x] React 进阶之 React Query 视频实战教程 02 useQuery hook part 1
-- [x] React 进阶之 React Query 视频实战教程 03 useQuery hook part 2
-- [x] React 进阶之 React Query 视频实战教程 04 React Query Devtools - staleTime
-- [x] React 进阶之 React Query 视频实战教程 05 React Query 分页 - 查询变量
-- [x] React 进阶之 React Query 视频实战教程 06 React Query 分页 - 完结
-</details>
-<details>
-<summary><strong>react进阶组件实战</strong></summary>
-</details>
+## Task :dart:
+
+This is my November assignment. ☕:
+
+<p>
+  
+<p>
+
+[![珠峰](https://img.shields.io/badge/珠峰架构课-Vue-red.svg)](http://www.zhufengpeixun.cn/)
+[![基础](https://img.shields.io/badge/基础-网络工作原理-blue.svg)](https://www.bilibili.com/video/BV1xJ41137Q3)
+[![珠峰](https://img.shields.io/badge/基础-HTTP协议-abcdef.svg)](https://www.bilibili.com/video/BV1js411g7Fw)
+
+</p>
+
 
 
 <!--
